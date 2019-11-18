@@ -149,5 +149,12 @@
             </plugin>
         </plugins>
     </build>
+    <developers>
+    	<developer>
+    		<name>Rafael Santos</name>
+    		<email>rafaelsilva.96@hotmail.com</email>
+    		
+    	</developer>
+    </developers>
 
 </project>
